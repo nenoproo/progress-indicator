@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+@theme {
+    --tracking-custom: 0.2rem; 
+}
